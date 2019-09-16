@@ -1,3 +1,7 @@
 goodbye world
+<<<<<<< HEAD
 hjbtgt
 bgbhun
+=======
+bgvgvvfgfg vg 
+>>>>>>> c281a9e32fc0cd1422b4ffb3cf3067e21593b4dd
